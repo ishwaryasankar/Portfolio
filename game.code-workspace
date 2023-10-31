@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../Desktop/game"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "clark-master"
+	}
+}
